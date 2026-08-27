@@ -1,0 +1,7 @@
+# Preview privado en GitHub Pages: no queremos que esto se indexe.
+# ⚠️ Al publicar en el dominio real, sustituir por:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://haiservice.es/sitemap.xml
+User-agent: *
+Disallow: /

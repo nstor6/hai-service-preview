@@ -1,0 +1,1 @@
+function o(t){if(!t)return null;if(t instanceof Date)return t;let n=t;if(typeof n.toDate=="function")return n.toDate();if(typeof n.seconds=="number")return new Date(n.seconds*1e3);let e=new Date(t);return isNaN(e.getTime())?null:e}export{o as a};
