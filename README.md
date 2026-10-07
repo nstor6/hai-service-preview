@@ -14,11 +14,13 @@ compilados). El código fuente está en un repositorio privado.
 - Es una **vista previa para revisar diseño y textos**, no la web en producción.
 - Está marcada como `noindex`: no aparece en Google. No la enlaces desde
   ninguna parte pública.
-- **Los formularios no envían nada todavía.** Falta conectar el proyecto de
-  Firebase, así que "Pedir presupuesto" y "Contacto" no guardan la solicitud
-  ni mandan emails.
-- **Los datos de la tienda son de relleno**: dirección, teléfono, email y
-  horario son inventados hasta tener los reales.
+- **Los formularios están conectados al Firebase real**: "Pedir presupuesto" y
+  "Contacto" guardan la solicitud y aparece en el panel del taller. Lo que aún
+  no sale son los emails automáticos (falta activar el plan Blaze).
+- **Los datos de la tienda son los reales** (dirección, teléfono y horario).
+  Faltan los datos fiscales del aviso legal y el email de contacto definitivo.
+- **Las imágenes son provisionales**: hay que sustituirlas por fotos reales del
+  taller y de fundas impresas.
 - **No hay ningún precio** en toda la web, a propósito: aún está por decidir.
 
 ## Qué se puede revisar ya
