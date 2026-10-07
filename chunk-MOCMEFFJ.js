@@ -1,4 +1,4 @@
-import{a as T}from"./chunk-Q6Q7DDMR.js";import{a as i}from"./chunk-6JHCHSTB.js";import{$ as f,A as h,Ca as r,Da as u,Ea as _,Ja as x,Pa as D,Qa as E,Ra as S,T as v,V as t,eb as P,ga as b,ha as y,ja as L,ka as C,la as d,ma as n,na as s,oa as z,wa as p}from"./chunk-4D7FP3Y2.js";var l=i.fiscal,m=[{slug:"aviso-legal",titulo:"Aviso legal",html:`
+import{a as T}from"./chunk-QUSGPQNK.js";import{a as i}from"./chunk-MH3LPD24.js";import{$ as f,A as h,Ba as r,Ca as u,Da as _,Ja as x,Qa as D,Ra as E,Sa as S,T as v,W as t,fa as b,ga as y,gb as P,ia as L,ja as C,ka as d,la as n,ma as s,na as z,va as p}from"./chunk-NWP5WS7X.js";var l=i.fiscal,m=[{slug:"aviso-legal",titulo:"Aviso legal",html:`
       <p>En cumplimiento del art\xEDculo 10 de la Ley 34/2002 de Servicios de la Sociedad de la
       Informaci\xF3n y Comercio Electr\xF3nico (LSSI-CE), se informa de los datos del titular de este
       sitio web:</p>

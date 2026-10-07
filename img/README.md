@@ -9,12 +9,14 @@ microsoldadura vende más que cualquier ilustración.
 
 | Fichero | Dónde se usa | Qué debería ser |
 |---|---|---|
-| `tecnico.webp` | Hero de la home | Foto del mostrador de la tienda |
-| `svc-funda/micro/patinete.webp` | Tarjetas «Nuestros servicios» | Fotos reales de cada servicio |
-| `fundas-duo.webp` | Bloque de fundas de la home | Fundas impresas de verdad |
-| `phones-arrow.webp` | Hero de /reparaciones | Antes/después de una pantalla |
-| `micro.webp` | Banner de microsoldadura | Foto del microscopio con una placa |
-| `patinete.webp` | Banner de patinetes | Foto de un patinete abierto en el taller |
-| `funda-hero.webp` | Hero de /fundas | Funda personalizada real |
-| `tecnico-saluda.webp` | Lateral de /presupuesto | Foto de Néstor en la tienda |
-| `mapa.webp` | /contacto | Mapa real o captura de Google Maps |
+| `fundas-duo.webp` | Tarjeta «Fundas» de la home | Fundas impresas de verdad |
+| `preset-marmol.webp`, `preset-foto.webp` | Texturas de las fundas dibujadas (`components/funda`) en /fundas | Fotos de fundas impresas reales |
+
+Ya **no se usan** (las ilustraciones con halo neón eran del diseño anterior y se
+han sustituido por dibujos del sistema «placa»: la placa ampliada, el plano de la
+tienda y las fundas dibujadas): `tecnico`, `tecnico-saluda`, `micro`, `patinete`,
+`phones-arrow`, `svc-*`, `funda-hero`, `funda-marmol`, `funda-circuito`,
+`preset-circuito` y `mapa`. Se pueden borrar cuando haya fotos reales.
+
+Fotos que más falta hacen: el técnico en el banco de microsoldadura, el
+mostrador de la tienda, antes/después de una placa reparada y fundas impresas.
